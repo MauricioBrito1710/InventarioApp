@@ -31,4 +31,5 @@ Console.WriteLine("Carpeta src/ creada");
 Console.WriteLine("Metadatos Configurados");
 Console.WriteLine();
 Console.WriteLine("Proximo paso: Agregar argumentos CLI y configuracion de repositorio en GitHub");
+Console.WriteLine("");
 Console.WriteLine("Proximo paso. Checkpoint");
